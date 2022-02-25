@@ -13,8 +13,8 @@ import styles from "../styles/Main.module.css";
 import NavBar from "../components/NavBar";
 import Footer from "../components/Footer";
 import TextBlock from "../components/TextBlock";
-// import InfoCard from "../components/InfoCard";
-// import Protagonist from "../components/Protagonist";
+import InfoCard from "../components/InfoCard";
+import Protagonist from "../components/Protagonist";
 
 export default function Home({ content }) {
   const {
@@ -95,6 +95,104 @@ export default function Home({ content }) {
             color="light"
             locale={lan}
           />
+        </section>
+        {/* ============= */}
+        {/* SECTION THREE */}
+        {/* ============= */}
+        <section className={styles.sectionThreeContainer} id="die-premiere">
+          <h2 className={`${styles.sectionHeadline}`}>
+            {lan === "fr" ? "La Première" : "Die Premiere"}
+          </h2>
+          <div className={styles.sectionGrid}>
+            <div>
+              <TextBlock
+                data={the_premiere.section_description}
+                color="dark"
+                locale={lan}
+              />
+            </div>
+            <div>
+              <InfoCard data={the_premiere.info_card} locale={lan} />
+            </div>
+          </div>
+        </section>
+        {/* ============ */}
+        {/* SECTION FOUR */}
+        {/* ============ */}
+        <section className={styles.sectionFourContainer} id="das-projekt">
+          <h2 className={`${styles.sectionHeadline} ${styles.white}`}>
+            {lan === "fr" ? "Le Projet" : "Das Projekt"}
+          </h2>
+          <TextBlock
+            data={the_project.section_description}
+            color="light"
+            locale={lan}
+          />
+          <div className={styles.supporterContainer}>
+            <div className={styles.mainSupporterWrapper}>
+              {the_project.supporter.list.slice(0, 2).map((el, i) => (
+                <div key={i} className={styles.supporterWrapper}>
+                  <Link href={el.supporter_link} passHref={true}>
+                    <a>
+                      <div className={styles.imageBackground}>
+                        <div className={styles.supporterImageContainer}>
+                          <img
+                            src={`/${el.supporter_logo}`}
+                            alt={el.supporter_name}
+                          />
+                        </div>
+                      </div>
+
+                      <div className={styles.supporterName}>
+                        {el.supporter_name}
+                      </div>
+                    </a>
+                  </Link>
+                </div>
+              ))}
+            </div>
+            <div className={styles.supporterListContainer}>
+              <ul>
+                {the_project.supporter.list.slice(2).map((el, i) => (
+                  <li key={i} className={styles.supporterListItem}>
+                    <Link href={el.supporter_link} passHref={true}>
+                      {el.supporter_name}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </div>
+        </section>
+        {/* ============ */}
+        {/* SECTION FIVE */}
+        {/* ============ */}
+        <section
+          className={styles.sectionFiveContainer}
+          id="die-protagonistinnen"
+        >
+          <h2 className={`${styles.sectionHeadline}`}>
+            {lan === "fr" ? "Les Protagonistes" : "Die Protagonistinnen"}
+          </h2>
+          <div className={styles.sectionFiveGrid}>
+            <Protagonist data={the_protagonists.list} locale={lan} />
+          </div>
+        </section>
+        {/* =========== */}
+        {/* SECTION SIX */}
+        {/* =========== */}
+        <section className={styles.sectionSixContainer}>
+          <div className="embla" ref={emblaRef}>
+            <div className="embla__container">
+              {image_gallery.list.map((image, index) => (
+                <div key={index} className="embla__slide">
+                  <div className="box">
+                    <img src={`/${image.image}`} alt={image.image_name} />
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
         </section>
       </main>
     </>

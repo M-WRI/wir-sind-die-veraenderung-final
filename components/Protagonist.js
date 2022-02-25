@@ -11,13 +11,7 @@ const Protagonist = ({ data, locale }) => {
         return (
           <div key={i}>
             <div className={styles.imageContainer}>
-              <Image
-                src={`/${protagonist.image}`}
-                alt={protagonist.name}
-                layout="fill"
-                priority
-                objectFit="cover"
-              />
+              <img src={`/${protagonist.image}`} alt={protagonist.name} />
             </div>
             <h3 className={styles.name}>{protagonist.name}</h3>
             <ReactMarkdown key={i} className={styles.bio}>
