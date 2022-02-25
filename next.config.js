@@ -8,10 +8,6 @@ const nextConfig = {
     });
     return config;
   },
-  i18n: {
-    locales: ["de", "fr"],
-    defaultLocale: "de",
-  },
 };
 
 module.exports = nextConfig;
