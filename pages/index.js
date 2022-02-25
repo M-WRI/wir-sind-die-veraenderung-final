@@ -41,6 +41,7 @@ export default function Home({ content }) {
   return (
     <>
       <Script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
+      <NavBar locale={lan} setLan={setLan} />
       <main className={styles.mainContainer} id="home">
         <header className={styles.headerContainer}>
           {lan === "fr" ? (
@@ -195,6 +196,7 @@ export default function Home({ content }) {
           </div>
         </section>
       </main>
+      <Footer locale={lan} data={footer} />
     </>
   );
 }
