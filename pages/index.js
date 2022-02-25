@@ -2,8 +2,7 @@ import Link from "next/link";
 import ReactPlayer from "react-player";
 import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
-import { useRouter } from "next/router";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Script from "next/script";
 
 // styles
@@ -26,17 +25,9 @@ export default function Home({ content }) {
     footer,
   } = content.attributes;
 
-  const router = useRouter();
-
-  const { locale } = router;
-
   const [lan, setLan] = useState("de");
 
   const [emblaRef, emblaApi] = useEmblaCarousel({ loop: true }, [Autoplay()]);
-
-  useEffect(() => {
-    setLan(locale);
-  }, [locale]);
 
   return (
     <>
