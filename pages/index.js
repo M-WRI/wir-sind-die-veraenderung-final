@@ -1,5 +1,5 @@
 // import Image from "next/image";
-// import Link from "next/link";
+import Link from "next/link";
 // import ReactPlayer from "react-player";
 // import useEmblaCarousel from "embla-carousel-react";
 // import Autoplay from "embla-carousel-autoplay";
