@@ -1,5 +1,4 @@
 import Link from "next/link";
-// import Image from "next/image";
 import ReactPlayer from "react-player";
 import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
@@ -13,7 +12,7 @@ import styles from "../styles/Main.module.css";
 // components
 import NavBar from "../components/NavBar";
 import Footer from "../components/Footer";
-// import TextBlock from "../components/TextBlock";
+import TextBlock from "../components/TextBlock";
 // import InfoCard from "../components/InfoCard";
 // import Protagonist from "../components/Protagonist";
 
@@ -55,13 +54,7 @@ export default function Home({ content }) {
           )}
 
           <div className={styles.titleImageContainer}>
-            <img
-              src="/images/title-image.jpg"
-              alt="Wir sind die Veränderung"
-              // layout="fill"
-              // objectFit="cover"
-              // priority
-            />
+            <img src="/images/title-image.jpg" alt="Wir sind die Veränderung" />
           </div>
           <Link
             href={the_premiere.info_card.premiere_title.zoom_link}
@@ -82,6 +75,27 @@ export default function Home({ content }) {
             </div>
           </Link>
         </header>
+        {/* =========== */}
+        {/* SECTION TWO */}
+        {/* =========== */}
+        <section className={styles.sectionTwoContainer} id="der-film">
+          <h2 className={`${styles.sectionHeadline} ${styles.white}`}>
+            {lan === "fr" ? "Le Film" : "Der Film"}
+          </h2>
+          <div className={styles.videoContainer}>
+            <ReactPlayer
+              url={the_movie.movie_trailer}
+              width={"100%"}
+              height={"auto"}
+              controls={true}
+            />
+          </div>
+          <TextBlock
+            data={the_movie.section_description}
+            color="light"
+            locale={lan}
+          />
+        </section>
       </main>
     </>
   );
