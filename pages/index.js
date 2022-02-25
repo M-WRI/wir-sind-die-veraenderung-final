@@ -4,6 +4,7 @@ export default function Home({ content }) {
   console.log(content, "<-----");
   return (
     <>
+      {/* READY TO START */}
       <Script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
       <div>INDEX</div>
     </>
