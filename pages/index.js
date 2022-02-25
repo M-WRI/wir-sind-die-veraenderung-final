@@ -4,7 +4,7 @@ import ReactPlayer from "react-player";
 import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
 import { useRouter } from "next/router";
-// import { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import Script from "next/script";
 
 // styles
