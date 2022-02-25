@@ -2,9 +2,8 @@
 the_movie:
   movie_trailer: /video/video-background-trainer.mp4
   section_description:
-    - text_block_de: >-
-        Angesichts von Hass und Gewalt im Namen der Religionen treffen sich,
-        gefördert vom **Deutsch-Französischen Bürgerfonds**, 8
+    - text_block_de: Angesichts von Hass und Gewalt im Namen der Religionen treffen
+        sich, gefördert vom **Deutsch-Französischen Bürgerfonds**, 8
         Glaubensvertreterinnen aus Deutschland und Frankreich im Südwesten
         Frankreichs. Sie wollen herauszufinden, was sich ändern muss, damit es
         besser wird. Die Imaminnen **Seyran Ateş** und **Eva Janadin**, die
@@ -15,11 +14,6 @@ the_movie:
         innerhalb ihrer Religion, dem Islam, dem Judentum, dem Katholizismus und
         Protestantismus einen außergewöhnlichen, einen schwierigen Weg
         eingeschlagen. Um des Glaubens Willen.
-
-
-
-
-        TEST TEST
       text_block_fr: Face à la haine et à la violence au nom des religions, 8
         représentantes des religions de France et d'Allemagne se rencontrent
         dans le sud-ouest de la France, avec le soutien du Fonds citoyen
