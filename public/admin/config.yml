@@ -128,3 +128,57 @@ collections:
                       name: "text_block_fr",
                       widget: "markdown",
                     }
+          - label: "DIE PROTAGONISTINNEN"
+            name: "the_protagonists"
+            widget: "object"
+            collapsed: true
+            fields:
+              - label: "Liste"
+                name: "list"
+                widget: "list"
+                fields:
+                  - { label: "Bild", name: "image", widget: "image" }
+                  - { label: "Name", name: "name", widget: "string" }
+                  - label: "DIE PROTAGONISTINNEN"
+                    name: "the_protagonists"
+                    widget: "object"
+                    collapsed: true
+                    fields:
+                      - { label: "Deutsch", name: "bio_de", widget: "markdown" }
+                      - {
+                          label: "Französisch",
+                          name: "bio_fr",
+                          widget: "markdown",
+                        }
+          - label: "GALERIE"
+            name: "image_gallery"
+            widget: "object"
+            collapsed: true
+            fields:
+              - label: "Liste"
+                name: "list"
+                widget: "list"
+                fields:
+                  - { label: "Name", name: "image_name", widget: "string" }
+                  - { label: "Bild", name: "image", widget: "image" }
+          - label: "FOOTER"
+            name: "footer"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: "Email", name: "email", widget: "string" }
+              - { label: "Link", name: "link", widget: "string" }
+              - label: "Mitmachen"
+                name: "participate"
+                widget: "object"
+                fields:
+                  - {
+                      label: "Deutsch",
+                      name: "text_block_de",
+                      widget: "markdown",
+                    }
+                  - {
+                      label: "Französisch",
+                      name: "text_block_fr",
+                      widget: "markdown",
+                    }
