@@ -13,16 +13,3 @@ collections:
       - label: "Home"
         name: "home"
         file: "content/home.md"
-        fields:
-          -  label: "DER FILM",
-              name: "the_movie",
-              widget: "object",
-              collapsed: true,
-              fields:
-                - { label: "Film Trailer", name: "movie_trailer", widget: "string" },
-                - label: "Beschreibung",
-                  name: "section_description",
-                  widget: "list",
-                  fields:
-                    - { label: "Deutsch", name: "text_block_de", widget: "markdown" },
-                    - { label: "Französisch", name: "text_block_fr", widget: "markdown" },
