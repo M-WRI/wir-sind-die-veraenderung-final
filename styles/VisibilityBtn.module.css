@@ -32,6 +32,12 @@
   width: 25px;
 }
 
+.styles.arrow img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
 .arrowDown {
   transform: rotate(-180deg);
 }

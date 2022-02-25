@@ -83,12 +83,12 @@ export default function Home({ content }) {
             {lan === "fr" ? "Le Film" : "Der Film"}
           </h2>
           <div className={styles.videoContainer}>
-            {/* <ReactPlayer
+            <ReactPlayer
               url={the_movie.movie_trailer}
               width={"100%"}
               height={"auto"}
               controls={true}
-            /> */}
+            />
           </div>
           <TextBlock
             data={the_movie.section_description}

@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 // styles
 import styles from "../styles/VisibilityBtn.module.css";
 
@@ -30,14 +28,11 @@ const VisibilityBtn = ({ isVisible, hidden, color = "dark", locale }) => {
           hidden ? styles.arrowDown : styles.arrowUp
         }`}
       >
-        <Image
+        <img
           src={
             color === "dark" ? "/svg/arrow-dark.svg" : "/svg/arrow-white.svg"
           }
           alt="arrow"
-          layout="fill"
-          objectFit="contain"
-          priority
         />
       </div>
     </div>
