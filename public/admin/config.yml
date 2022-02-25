@@ -19,6 +19,11 @@ collections:
             widget: "object"
             collapsed: true
             fields:
+              - {
+                  label: "Film Trailer",
+                  name: "movie_trailer",
+                  widget: "string",
+                }
               - label: "Beschreibung"
                 name: "section_description"
                 widget: "list"
@@ -33,3 +38,49 @@ collections:
                       name: "text_block_fr",
                       widget: "markdown",
                     }
+          - label: "DIE PREMIERE"
+            name: "the_premiere"
+            widget: "object"
+            collapsed: true
+            fields:
+              - label: "Infokarte"
+                name: "info_card"
+                widget: "object"
+                collapsed: true
+                fields:
+                  - label: "Premieren Titel"
+                    name: "premiere_title"
+                    widget: "object"
+                    collapsed: true
+                    fields:
+                      - {
+                          label: "Titel Deutsch",
+                          name: "title_de",
+                          widget: "string",
+                        }
+                      - {
+                          label: "Titel Französisch",
+                          name: "title_fr",
+                          widget: "string",
+                        }
+                      - {
+                          label: "Zoom Link Titel Deutsch",
+                          name: "zoom_link_title_de",
+                          widget: "string",
+                        }
+                      - {
+                          label: "Zoom Link Titel Französisch",
+                          name: "zoom_link_title_fr",
+                          widget: "string",
+                        }
+                      - {
+                          label: "Zoom Link",
+                          name: "zoom_link",
+                          widget: "string",
+                        }
+                  - label: "Ablaufplan"
+                    name: "schedule"
+                    widget: "list"
+                    fields:
+                      - { label: "Zeit", name: "time", widget: "string" }
+                      - { label: "Ablauf", name: "procedure", widget: "string" }
