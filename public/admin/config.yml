@@ -14,14 +14,22 @@ collections:
         name: "home"
         file: "content/home.md"
         fields:
-          - label: "DER FILM",
-            name: "the_movie",
-            widget: "object",
+          - label: "DER FILM"
+            name: "the_movie"
+            widget: "object"
             collapsed: true
             fields:
-              - label: "Beschreibung",
-                name: "section_description",
-                widget: "list",
+              - label: "Beschreibung"
+                name: "section_description"
+                widget: "list"
                 fields:
-                  - { label: "Deutsch", name: "text_block_de", widget: "markdown" },
-                  - { label: "Französisch", name: "text_block_fr", widget: "markdown" },
+                  - {
+                      label: "Deutsch",
+                      name: "text_block_de",
+                      widget: "markdown",
+                    }
+                  - {
+                      label: "Französisch",
+                      name: "text_block_fr",
+                      widget: "markdown",
+                    }
