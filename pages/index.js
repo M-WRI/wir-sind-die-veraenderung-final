@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Image from "next/image";
+// import Image from "next/image";
 import ReactPlayer from "react-player";
 import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
@@ -55,13 +55,13 @@ export default function Home({ content }) {
           )}
 
           <div className={styles.titleImageContainer}>
-            {/* <Image
+            <img
               src="/images/title-image.jpg"
               alt="Wir sind die Veränderung"
-              layout="fill"
-              objectFit="cover"
-              priority
-            /> */}
+              // layout="fill"
+              // objectFit="cover"
+              // priority
+            />
           </div>
           <Link
             href={the_premiere.info_card.premiere_title.zoom_link}
