@@ -1,0 +1,240 @@
+.mainContainer {
+  padding-top: 100px;
+  background: var(--primary-color);
+}
+
+.sectionHeadline {
+  font-size: var(--section-head-font-size);
+  text-transform: uppercase;
+  font-weight: 400;
+  margin-bottom: 50px;
+  color: var(--secondary-color);
+}
+
+.white {
+  color: var(--white);
+}
+
+/* ====== */
+/* HEADER */
+/* ====== */
+.headerContainer {
+  position: relative;
+}
+
+.mainHeadline {
+  font-size: 10vw;
+  text-transform: uppercase;
+  color: var(--secondary-color);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  line-height: 1;
+  margin-bottom: 50px;
+}
+
+.titleImageContainer {
+  position: relative;
+  width: calc(100vw - 8rem);
+  height: 55vw;
+  margin: 0 auto;
+}
+
+.premiereBtn {
+  width: 240px;
+  height: 240px;
+  background: var(--secondary-color);
+  border-radius: 50%;
+  position: relative;
+  left: 3vw;
+  bottom: 10vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transform: rotate(-20deg);
+  box-shadow: 10px 10px 17px 10px rgba(0, 0, 0, 0.05);
+}
+
+.buttonHeadline {
+  font-size: 1.875rem;
+  color: var(--white);
+}
+
+.buttonSubHead {
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--white);
+  text-align: center;
+  padding: 0.5rem;
+}
+
+@media (min-width: 1280px) {
+  .mainHeadline {
+    font-size: 7.5rem;
+  }
+}
+
+@media (max-width: 425px) {
+  .headerContainer {
+    height: 100vh;
+  }
+
+  .titleImageContainer {
+    display: none;
+  }
+
+  .premiereBtn {
+    transform: rotate(-20deg) scale(0.7);
+    left: -10vw;
+    bottom: -45vh;
+  }
+
+  .mainHeadline {
+    transform: rotate(-90deg) translate(-40%, -80%);
+    font-size: 15vw;
+    width: 600px;
+    margin: 0;
+  }
+}
+
+/* =========== */
+/* SECTION TWO */
+/* =========== */
+.sectionTwoContainer {
+  background: var(--secondary-color);
+  padding: var(--section-space-y) var(--section-space-x);
+}
+
+.videoContainer {
+  margin-bottom: 50px;
+}
+
+/* ============= */
+/* SECTION THREE */
+/* ============= */
+.sectionThreeContainer {
+  padding: var(--section-space-y) var(--section-space-x);
+}
+
+.sectionGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 2rem;
+}
+
+@media (max-width: 1000px) {
+  .sectionGrid {
+    grid-template-columns: repeat(1, 100%);
+  }
+
+  .sectionGrid div:last-child {
+    grid-row: 1;
+  }
+}
+
+/* ============ */
+/* SECTION FOUR */
+/* ============ */
+.sectionFourContainer {
+  background: var(--secondary-color);
+  padding: var(--section-space-y) var(--section-space-x);
+}
+
+.mainSupporterWrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 2rem;
+  margin: 4rem auto 0 auto;
+  max-width: 1280px;
+}
+
+.imageBackground {
+  background: var(--primary-color);
+  padding: 1rem;
+}
+
+.supporterImageContainer {
+  background: var(--primary-color);
+  position: relative;
+  height: 15vw;
+  width: 100%;
+}
+
+.supporterName {
+  margin-top: 1rem;
+  color: var(--primary-color);
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.supporterListContainer {
+  margin-top: 3rem;
+}
+
+.supporterListItem {
+  margin-top: 1rem;
+  color: var(--primary-color);
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  list-style: none;
+}
+
+@media (min-width: 1280px) {
+  .supporterImageContainer {
+    height: 220px;
+  }
+}
+
+@media (max-width: 768px) {
+  .mainSupporterWrapper {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .supporterImageContainer {
+    height: 20vw;
+  }
+
+  .supporterListItem {
+    text-align: center;
+    font-size: 1rem;
+  }
+}
+
+/* ============ */
+/* SECTION FIVE */
+/* ============ */
+.sectionFiveContainer {
+  padding: var(--section-space-y) var(--section-space-x);
+}
+
+.sectionFiveGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 2rem;
+}
+
+@media (max-width: 1000px) {
+  .sectionFiveGrid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 820px) {
+  .sectionFiveGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 500px) {
+  .sectionFiveGrid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+/* =========== */
+/* SECTION SIX */
+/* =========== */
+.sectionSixContainer {
+  padding: var(--section-space-y) var(--section-space-x);
+}

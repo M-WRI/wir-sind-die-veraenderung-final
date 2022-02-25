@@ -1,0 +1,41 @@
+.visibilityBtnContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.columnReverse {
+  flex-direction: column-reverse;
+}
+
+.visibilityText {
+  font-size: 1rem;
+  text-transform: uppercase;
+  margin: 10px 0;
+}
+
+.dark {
+  color: var(--secondary-color);
+}
+
+.light {
+  color: var(--white);
+}
+
+.arrow {
+  position: relative;
+  height: 35px;
+  width: 25px;
+}
+
+.arrowDown {
+  transform: rotate(-180deg);
+}
+
+.arrowUp {
+  transform: rotate(0deg);
+}

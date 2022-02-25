@@ -1,0 +1,16 @@
+.imageContainer {
+  position: relative;
+  width: 200px;
+  height: 250px;
+  margin: 0 auto 1rem auto;
+}
+
+.name {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.bio {
+  text-align: center;
+}

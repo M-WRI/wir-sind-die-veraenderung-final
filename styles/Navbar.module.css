@@ -1,0 +1,113 @@
+.mobNavBarContainer {
+  display: none;
+}
+
+.navBarContainer {
+  display: block;
+  padding: 1.5rem 4rem;
+  position: fixed;
+  z-index: 10;
+  background: var(--primary-color);
+  width: 100%;
+  box-shadow: 10px 10px 20px 20px rgba(0, 0, 0, 0.03);
+  display: flex;
+  justify-content: space-between;
+}
+
+.navBarItems {
+  display: flex;
+  background: var(--primary-color);
+  padding: 1rem;
+  border-radius: 20px;
+}
+
+.navBarItem {
+  list-style: none;
+  margin-right: 1rem;
+  cursor: pointer;
+}
+
+.navBarItemLan {
+  list-style: none;
+  margin-right: 1rem;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.navBarItemLan:last-child {
+  margin-right: unset;
+}
+
+.active {
+  height: 5px;
+  width: 100%;
+  background: var(--secondary-color);
+}
+
+@media (max-width: 860px) {
+  .navBarContainer {
+    display: none;
+  }
+
+  .hamburgerContainer {
+    position: fixed;
+    z-index: 20;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 1rem 1rem;
+    align-items: center;
+  }
+
+  .hamburgerIcon {
+    position: relative;
+    z-index: 20;
+    width: 60px;
+    height: 60px;
+    background: var(--primary-color);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+  }
+
+  .mobNavBarContainer {
+    display: block;
+    padding: 1rem;
+    opacity: 1;
+    position: fixed;
+    z-index: 10;
+    background: var(--primary-color);
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    transition: all 0.5s;
+  }
+
+  .listWrapper {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .mobNavBarItem {
+    list-style: none;
+    font-size: 8vw;
+    margin: 2rem 0;
+  }
+}
+
+@media (max-width: 425px) {
+  .mobHamburger {
+    position: fixed;
+    z-index: 20;
+    top: unset;
+    right: 1rem;
+    bottom: 1rem;
+  }
+}
