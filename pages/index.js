@@ -1,5 +1,6 @@
 // import Image from "next/image";
 import Link from "next/link";
+import Image from "next/image";
 import ReactPlayer from "react-player";
 import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
@@ -15,15 +16,74 @@ import NavBar from "../components/NavBar";
 import Footer from "../components/Footer";
 // import TextBlock from "../components/TextBlock";
 // import InfoCard from "../components/InfoCard";
-import Protagonist from "../components/Protagonist";
+// import Protagonist from "../components/Protagonist";
 
 export default function Home({ content }) {
-  console.log(content, "<-----");
+  const {
+    the_movie,
+    the_premiere,
+    the_project,
+    the_protagonists,
+    image_gallery,
+    footer,
+  } = content.attributes;
+
+  const router = useRouter();
+
+  const { locale } = router;
+
+  const [lan, setLan] = useState("de");
+
+  const [emblaRef, emblaApi] = useEmblaCarousel({ loop: true }, [Autoplay()]);
+
+  useEffect(() => {
+    setLan(locale);
+  }, [locale]);
+
   return (
     <>
-      {/* READY TO START */}
       <Script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
-      <div>INDEX</div>
+      <main className={styles.mainContainer} id="home">
+        <header className={styles.headerContainer}>
+          {lan === "fr" ? (
+            <h1 className={styles.mainHeadline}>
+              <span>Nous Sommes</span> <span>Le Changement</span>
+            </h1>
+          ) : (
+            <h1 className={styles.mainHeadline}>
+              <span>Wir sind die</span> <span>Veränderung</span>
+            </h1>
+          )}
+
+          <div className={styles.titleImageContainer}>
+            <Image
+              src="/images/title-image.jpg"
+              alt="Wir sind die Veränderung"
+              layout="fill"
+              objectFit="cover"
+              priority
+            />
+          </div>
+          <Link
+            href={the_premiere.info_card.premiere_title.zoom_link}
+            passHref={true}
+            target="blank"
+          >
+            <div className={styles.premiereBtn}>
+              <h3 className={styles.buttonHeadline}>
+                {lan === "fr"
+                  ? the_premiere.info_card.premiere_title.title_fr
+                  : the_premiere.info_card.premiere_title.title_de}
+              </h3>
+              <h4 className={styles.buttonSubHead}>
+                {lan === "fr"
+                  ? the_premiere.info_card.premiere_title.zoom_link_title_fr
+                  : the_premiere.info_card.premiere_title.zoom_link_title_de}
+              </h4>
+            </div>
+          </Link>
+        </header>
+      </main>
     </>
   );
 }
