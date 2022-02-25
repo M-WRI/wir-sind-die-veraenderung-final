@@ -44,7 +44,7 @@ export default function Home({ content }) {
     <>
       <Script src="https://identity.netlify.com/v1/netlify-identity-widget.js" />
       <main className={styles.mainContainer} id="home">
-        {/* <header className={styles.headerContainer}>
+        <header className={styles.headerContainer}>
           {lan === "fr" ? (
             <h1 className={styles.mainHeadline}>
               <span>Nous Sommes</span> <span>Le Changement</span>
@@ -56,13 +56,13 @@ export default function Home({ content }) {
           )}
 
           <div className={styles.titleImageContainer}>
-            <Image
+            {/* <Image
               src="/images/title-image.jpg"
               alt="Wir sind die Veränderung"
               layout="fill"
               objectFit="cover"
               priority
-            />
+            /> */}
           </div>
           <Link
             href={the_premiere.info_card.premiere_title.zoom_link}
@@ -82,7 +82,7 @@ export default function Home({ content }) {
               </h4>
             </div>
           </Link>
-        </header> */}
+        </header>
       </main>
     </>
   );
