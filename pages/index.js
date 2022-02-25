@@ -13,7 +13,7 @@ import styles from "../styles/Main.module.css";
 // components
 import NavBar from "../components/NavBar";
 import Footer from "../components/Footer";
-// import TextBlock from "../components/TextBlock";
+import TextBlock from "../components/TextBlock";
 // import InfoCard from "../components/InfoCard";
 // import Protagonist from "../components/Protagonist";
 
