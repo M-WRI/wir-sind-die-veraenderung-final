@@ -54,15 +54,6 @@ the_movie:
         Kötter de Maria 2.0 : \"Nous avons tendu des fils de chaîne et nous
         allons y tisser une nouvelle histoire. Ainsi naîtra une étoffe qui
         habillera le monde d'une nouvelle manière\"."
-    - text_block_de: Der Film erzählt von einem mutigen Aufbruch und ist ein
-        leidenschaftlicher Blick nach vorne, der Poesie und Provokation vereint.
-        Er leistet einen Beitrag zu einer brandaktuellen Diskussion zwischen
-        Kirchen und Gesellschaft.
-      text_block_fr: Le film raconte un départ courageux et est un regard passionné
-        vers l'avant, alliant poésie et provocation. Il contribue à un débat
-        d'une brûlante actualité entre les Eglises et la société.
-    - text_block_de: "**Der Produzent und Filmemacher**"
-      text_block_fr: Le producteur et réalisateur
     - text_block_de: Der Dokumentarfilmer und Journalist Benjamin Best wurde für seine
         profunde Arbeit vielfach ausgezeichnet, so hat ihn gerade sein Blick
         über den Tellerrand beim Sport bekannt gemacht. Es ist ihm immer wichtig
@@ -81,6 +72,15 @@ the_movie:
         liés au sport et au jeu. Ainsi, il va toujours au fond des choses sur le
         terrain, se consacre aux composantes sociales et sociopolitiques, montre
         sans ménagement comment les choses se passent dans certains domaines.
+    - text_block_de: Der Film erzählt von einem mutigen Aufbruch und ist ein
+        leidenschaftlicher Blick nach vorne, der Poesie und Provokation vereint.
+        Er leistet einen Beitrag zu einer brandaktuellen Diskussion zwischen
+        Kirchen und Gesellschaft.
+      text_block_fr: Le film raconte un départ courageux et est un regard passionné
+        vers l'avant, alliant poésie et provocation. Il contribue à un débat
+        d'une brûlante actualité entre les Eglises et la société.
+    - text_block_de: "**Der Produzent und Filmemacher**"
+      text_block_fr: Le producteur et réalisateur
     - text_block_de: Aufklärung, Nachdenklichkeit und Zusammenhänge sind es, die
         Benjamin Best antreiben. Wenn er Korruption bei Sportwetten und
         Sklaverei beim Bau von Fußballstadien in Katar anprangert, macht er sich
@@ -312,14 +312,6 @@ the_project:
         Orthez
         https://museeprotestant.org/de/notice/jeanne-dalbret-museum-gechichte-des-protestantismus-im-bearn/
         y participent.
-    - text_block_de: Träger des Projektes ist der DKR, organisiert wird es aus
-        Frankreich von Château d’Orion. Der Deutsch-Französische Bürgerfonds hat
-        es zu einem Leuchtturmprojekt erklärt und fördert es bereits maßgeblich.
-        Die Stiftung Apfelbaum hat es ebenfalls finanziell unterstützt.
-      text_block_fr: Le projet est porté par la DKR et organisé depuis la France par
-        le Château d'Orion. Le Fonds citoyen franco-allemand en a fait un projet
-        phare et le soutient déjà de manière significative. La fondation
-        Apfelbaum l'a également soutenu financièrement.
     - text_block_de: "Wir sind überzeugt, dass mit dieser binationalen Begegnung ein
         wichtiger Beitrag zur Versöhnung und gesellschaftlichen Emanzipation
         geleistet wird, mit dem Anspruch: Analysieren – Ideen entwickeln –
@@ -328,6 +320,14 @@ the_project:
         contribution importante à la réconciliation et à l'émancipation sociale
         sera apportée, avec l'exigence suivante : analyser - développer des
         idées - générer des mesures."
+    - text_block_de: Träger des Projektes ist der DKR, organisiert wird es aus
+        Frankreich von Château d’Orion. Der Deutsch-Französische Bürgerfonds hat
+        es zu einem Leuchtturmprojekt erklärt und fördert es bereits maßgeblich.
+        Die Stiftung Apfelbaum hat es ebenfalls finanziell unterstützt.
+      text_block_fr: Le projet est porté par la DKR et organisé depuis la France par
+        le Château d'Orion. Le Fonds citoyen franco-allemand en a fait un projet
+        phare et le soutient déjà de manière significative. La fondation
+        Apfelbaum l'a également soutenu financièrement.
   supporter:
     supporter_name: Deutsch-Französischer Bürgerfonds
     supporter_link: https://www.buergerfonds.eu/startseite
