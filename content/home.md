@@ -244,30 +244,25 @@ the_project:
         extrémistes, notamment antisémites. Face à la montée du populisme, les
         communautés religieuses sont elles aussi invitées à chercher des
         solutions.
-    - text_block_de: "In Château d’Orion im Südwesten Frankreichs haben sich im
-        Oktober 2021 vier Weltreligionen, namentlich jeweils vier Vertreterinnen
-        einer liberalen Glaubensauffassung aus Deutschland und Frankreich,
-        getroffen. Seyran Ateş, Eva Janadin, zwei Imaminnen, zwei Pfarrerinnen
-        Jane Stranz und Lena Müller, zwei Rabbinerinnen Ulrike Offenberg und
-        Iris Ferreira sowie zwei katholische Aktivistinnen Paule Zellitch und
-        Lisa Kötter befassen sich mit den Themen: Friedliche Koexistenz,
-        Migration, Geschlechtergerechtigkeit und Bekämpfung von Rassismus und
-        Antisemitismus. Inspiriert wurden sie durch regionale, historische
-        Gegebenheiten u.a. das Internierungslager Gurs, das protestantische
-        Museum Jeanne d’Albret in Orthez. Zudem geht es um Fragen, die sich auf
-        deutscher und französischer Seite die junge Generation stellt."
-      text_block_fr: "Au Château d'Orion, dans le sud-ouest de la France, quatre
+    - text_block_de: In Château d’Orion im Südwesten Frankreichs haben sich im Oktober
+        2021 vier Weltreligionen, namentlich jeweils vier Vertreterinnen einer
+        liberalen Glaubensauffassung aus Deutschland und Frankreich, getroffen.
+        Seyran Ateş, Eva Janadin, zwei Imaminnen, zwei Pfarrerinnen Jane Stranz
+        und Lena Müller, zwei Rabbinerinnen Ulrike Offenberg und Iris Ferreira
+        sowie zwei katholische Aktivistinnen Paule Zellitch und Lisa Kötter.
+        Inspiriert wurden sie durch Orte der Erinnerung in der Region u.a. das
+        Internierungslager Gurs und das protestantische Museum Jeanne d’Albret
+        in Orthez.
+      text_block_fr: Au Château d'Orion, dans le sud-ouest de la France, quatre
         religions du monde, à savoir quatre représentantes d'une conception
         libérale de la foi de France et d'Allemagne, se sont rencontrées en
         octobre 2021. Seyran Ateş, Eva Janadin, deux imams, deux pasteures Jane
         Stranz et Lena Müller, deux rabbins Ulrike Offenberg et Iris Ferreira
-        ainsi que deux militantes catholiques Paule Zellitch et Lisa Kötter se
-        penchent sur les thèmes suivants : Coexistence pacifique, migration,
-        égalité des sexes et lutte contre le racisme et l'antisémitisme. Elles
-        se sont inspirées de circonstances historiques régionales, comme le camp
-        d'internement de Gurs et le musée protestant Jeanne d'Albret à Orthez.
-        En outre, il s'agit de questions que se pose la jeune génération du côté
-        français et allemand."
+        ainsi que deux militantes catholiques Paule Zellitch et Lisa Kötter.
+        Elles se sont inspirées de circonstances historiques régionales, comme
+        le camp d'internement de Gurs et le musée protestant Jeanne d'Albret à
+        Orthez. En outre, il s'agit de questions que se pose la jeune génération
+        du côté français et allemand.
     - text_block_de: Der Ort der Begegnung, Château d’Orion im Südwesten Frankreichs
         hat sich seit 2003 zum Ziel gesetzt, das Narrativ der Versöhnung, mithin
         die deutsch-französische Freundschaft in Europa zu fördern. U.a. in
