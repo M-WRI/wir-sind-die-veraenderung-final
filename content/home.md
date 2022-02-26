@@ -7,12 +7,12 @@ the_movie:
         Glaubensvertreterinnen aus Deutschland und Frankreich im Südwesten
         Frankreichs. Sie wollen herauszufinden, was sich ändern muss, damit es
         besser wird. Die Imaminnen **Seyran Ateş** und **Eva Janadin**, die
-        Katholikinnen **Lisa Kötter** und **Paule Zellitch**, die Vikarin **Lena
-        Müller** und die Pastorin **Jane Stranz**, die Rabbinerinnen **Ulrike
-        Offenberg** und **Iris Ferreira** entwickelten im geschützten Raum der
-        Begegnungsstätte **Château d’Orion** ihre Vision eines friedlichen
-        Miteinanders.  Alle haben innerhalb ihrer Religion und Konfession-
-        Islam, Judentum, Katholizismus und Protestantismus einen
+        Katholikinnen **Lisa Kötter** und **Paule Zellitch**, die Vikarin und
+        heutige Pastorin **Lena Müller** und die Pastorin **Jane Stranz**, die
+        Rabbinerinnen **Ulrike Offenberg** und **Iris Ferreira** entwickelten im
+        geschützten Raum der Begegnungsstätte **Château d’Orion** ihre Vision
+        eines friedlichen Miteinanders.  Alle haben innerhalb ihrer Religion und
+        Konfession- Islam, Judentum, Katholizismus und Protestantismus einen
         außergewöhnlichen, einen schwierigen Weg eingeschlagen. Um des Glaubens
         Willen.
       text_block_fr: Face à la haine et à la violence au nom des religions, 8
