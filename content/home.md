@@ -140,8 +140,6 @@ the_movie:
         cette lutte pour de nouveaux points de vue et d'ouvrir des perspectives
         précisément pour un public qui est souvent paralysé par des nouvelles
         effrayantes de premier plan".
-    - text_block_de: Test
-      text_block_fr: Test
 the_premiere:
   section_description:
     - text_block_de: "Acht inspirierende Frauen haben sich im Herbst 2021 im
