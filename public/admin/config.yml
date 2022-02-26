@@ -86,6 +86,20 @@ collections:
                     fields:
                       - { label: "Zeit", name: "time", widget: "string" }
                       - { label: "Ablauf", name: "procedure", widget: "string" }
+                  - label: "Beschreibung"
+                    name: "section_description"
+                    widget: "list"
+                    fields:
+                      - {
+                          label: "Deutsch",
+                          name: "text_block_de",
+                          widget: "markdown",
+                        }
+                      - {
+                          label: "Französisch",
+                          name: "text_block_fr",
+                          widget: "markdown",
+                        }
           - label: "DAS PEOJEKT"
             name: "the_project"
             widget: "object"
