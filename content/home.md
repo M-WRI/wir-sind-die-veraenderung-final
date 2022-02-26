@@ -2,18 +2,19 @@
 the_movie:
   movie_trailer: /video/video-background-trainer.mp4
   section_description:
-    - text_block_de: Angesichts von Hass und Gewalt im Namen der Religionen treffen
+    - text_block_de: Angesichts von Hass und Gewalt im Namen der Religionen trafen
         sich, gefördert vom **Deutsch-Französischen Bürgerfonds**, 8
         Glaubensvertreterinnen aus Deutschland und Frankreich im Südwesten
         Frankreichs. Sie wollen herauszufinden, was sich ändern muss, damit es
         besser wird. Die Imaminnen **Seyran Ateş** und **Eva Janadin**, die
         Katholikinnen **Lisa Kötter** und **Paule Zellitch**, die Vikarin **Lena
         Müller** und die Pastorin **Jane Stranz**, die Rabbinerinnen **Ulrike
-        Offenberg** und **Iris Ferreira** entwickeln im geschützten Raum von
-        Château d’Orion ihre Vision eines friedlichen Miteinanders.  Alle haben
-        innerhalb ihrer Religion, dem Islam, dem Judentum, dem Katholizismus und
-        Protestantismus einen außergewöhnlichen, einen schwierigen Weg
-        eingeschlagen. Um des Glaubens Willen.
+        Offenberg** und **Iris Ferreira** entwickelten im geschützten Raum der
+        Begegnungsstätte **Château d’Orion** ihre Vision eines friedlichen
+        Miteinanders.  Alle haben innerhalb ihrer Religion und Konfession-
+        Islam, Judentum, Katholizismus und Protestantismus einen
+        außergewöhnlichen, einen schwierigen Weg eingeschlagen. Um des Glaubens
+        Willen.
       text_block_fr: Face à la haine et à la violence au nom des religions, 8
         représentantes des religions de France et d'Allemagne se rencontrent
         dans le sud-ouest de la France, avec le soutien du Fonds citoyen
@@ -132,7 +133,7 @@ the_movie:
         cœur de l'accompagnement cinématographique. Comment vont-ils discuter
         des différences et de la signification de leurs religions et les amener
         ensemble dans un processus de nouvelles connaissances ?
-    - text_block_de: Insbesondere wird der Film versuchen, genau dieses Ringen um neue
+    - text_block_de: Insbesondere versucht der Film genau dieses Ringen um neue
         Sichtweisen sichtbar zu machen und Perspektiven gerade für ein Publikum
         zu öffnen, das von vordergründigen Schreckensnachrichten vielfach
         gelähmt ist.“
@@ -166,29 +167,31 @@ the_premiere:
         revivre cette rencontre. Soit numériquement sur le net, soit en personne
         à différents endroits.
     - text_block_de: Im Anschluss an den Film gibt es die Möglichkeit, mit den
-        Protagonistinnen auszutauschen und über ihre Vision zu diskutieren.
+        anwesenden Protagonistinnen über ihre Vision zu diskutieren.
       text_block_fr: Après le film, il sera possible d'échanger avec les protagonistes
         et de discuter de leur vision.
-    - text_block_de: "Dank der Förderung durch den Deutsch-Französischen Bürgerfonds
-        mit Hilfe der Trägerschaft des DKR (Deutscher Koordinierungsrat der
-        Gesellschaften für Christlich-Jüdische Zusammenarbeit) begegneten sich:
-        Iris Ferreira, die erste in Frankreich ordinierte Rabbinerin, Ulrike
-        Offenberg, liberale Rabbinerin der Gemeinde Hameln, die seit Jahren für
-        eine offene Moschee kämpfende Imamin Seyran Ateş aus Berlin, Eva
-        Janadin, Imamin aus Paris, die Pastorin Jane Stranz, die junge
-        feministische Pastorin Lena Müller der Gemeinde Neukölln in Berlin, Lisa
-        Kötter, Mitbegründerin von Maria 2.0 und Paule Zellitch, présidente de
-        la Conférence catholices de babtisé.e.s frankophones."
-      text_block_fr: "Grâce au soutien du Fonds citoyen franco-allemand avec l'aide du
-        DKR (Deutscher Koordinierungsrat der Gesellschaften für
-        Christlich-Jüdische Zusammenarbeit), se sont rencontrés : Iris Ferreira,
-        première femme rabbin ordonnée en France, Ulrike Offenberg, rabbin
-        libérale de la communauté de Hamelin, Seyran Ateş, imam de Berlin qui se
-        bat depuis des années pour une mosquée ouverte, Eva Janadin, imam de
-        Paris, la pasteure Jane Stranz, la jeune pasteure féministe Lena Müller
-        de la communauté de Neukölln à Berlin, Lisa Kötter, cofondatrice de
-        Maria 2. 0 et Paule Zellitch, présidente de la Conférence catholique de
-        babtisé.e.s francophones."
+    - text_block_de: "Möglich wurden die Begegnung und der Film dank der Förderung
+        durch den **Deutsch-Französischen Bürgerfonds** mit Hilfe der
+        Trägerschaft des **Deutschen Koordinierungsrates der Gesellschaften für
+        Christlich-Jüdische Zusammenarbeit (DKR)**. Es begegneten sich: **Iris
+        Ferreira**, die erste in Frankreich ordinierte Rabbinerin, **Ulrike
+        Offenberg**, liberale Rabbinerin der Gemeinde Hameln, die seit Jahren
+        für eine offene Moschee kämpfende Imamin **Seyran Ateş** aus Berlin,
+        **Eva Janadin**, Imamin aus Paris, die Pastorin **Jane Stranz**, die
+        junge feministische Pastorin **Lena Müller** der Gemeinde Neukölln in
+        Berlin, **Lisa Kötter**, Mitbegründerin von Maria 2.0 und **Paule
+        Zellitch**, présidente de la Conférence catholices de babtisé.e.s
+        frankophones"
+      text_block_fr: "Grâce au soutien du **Fonds citoyen franco-allemand** avec
+        l'aide du **Conseil allemand de coordination des societes de cooperation
+        judeo-chretienne (DKR)**, se sont rencontrés : **Iris Ferreira**,
+        première femme rabbin ordonnée en France, **Ulrike Offenberg**, rabbin
+        libérale de la communauté de Hamelin, **Seyran Ateş**, imam de Berlin
+        qui se bat depuis des années pour une mosquée ouverte, **Eva Janadin**,
+        imam de Paris, la pasteure **Jane Stranz**, la jeune pasteure féministe
+        **Lena Müller** de la communauté de Neukölln à Berlin, **Lisa Kötter**,
+        cofondatrice de Maria 2. 0 et **Paule Zellitch**, présidente de la
+        Conférence catholique de babtisé.e.s francophones."
     - text_block_de: Die Veranstaltung beginnt um 19.00 Uhr und wird hybrid von
         verschiedenen Orten aus stattfinden.
       text_block_fr: L'événement débutera à 19 heures et se déroulera de manière
@@ -198,18 +201,18 @@ the_premiere:
     zoom_link: "#"
     zoom_link_title: Klicken sie hier für die Zoom Konferenz
     schedule:
-      - time: 19:00
-        procedure: Begrüßung
+      - time: "19:00 "
+        procedure: Begrüßung/Mot de bienvenu
       - time: 19:30
-        procedure: Ausstrahlung
+        procedure: Film
       - time: 20:15
-        procedure: Wie geht es weiter?
+        procedure: "Diskussion/dicussion "
     premiere_title:
       title_de: 8. März 2022
       zoom_link_title_fr: Cliquez ici pour la conférence Zoom
       zoom_link_title_de: Klicken sie hier für die Zoom Konferenz
       title_fr: 8 Mars 2022
-      zoom_link: "#"
+      zoom_link: https://us02web.zoom.us/webinar/register/WN_K3TFFj36Q5ij3MBqGotJUQ
 the_project:
   section_description:
     - text_block_de: >-
@@ -493,20 +496,30 @@ premiere_sub_title: 8 Frauen 4 Religionen 2 Länder der Film
 premiere_description: []
 footer:
   participate:
-    text_block_de: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-      ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-      est laborum.
-    text_block_fr: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-      ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-      est laborum.
+    text_block_de: >-
+      Wenn Sie selbst eine Präsenzveranstaltung mit Freund*innen, Institutionen
+      oder Gemeinden planen, helfen wir gerne. 
+
+
+      Wenn Sie Lust haben, später eine öffentliche Vorführung zu organisieren ebenfalls.
+
+
+       Wenn Sie wissen wollen, wo eine öffentliche Ausstrahlung am 8. März 2022 stattfindet, bitte fragen Sie uns.  
+
+
+      Email: [mail@veraenderung-changement-change.com](<>)
+    text_block_fr: >-
+      Si vous prévoyez vous-même une manifestation en présentiel avec des amis*,
+      des institutions ou des communautés, nous vous aiderons volontiers. 
+
+
+      Si vous avez envie d'organiser plus tard une projection publique également.
+
+
+       Si vous voulez savoir où aura lieu une diffusion publique le 8 mars 2022, n'hésitez pas à nous le demander.  
+
+
+      Courrier électronique : [mail@veraenderung-changement-change.com](<>)
   email: mail@veraenderung-changement-change.com
-  link: vorbild_sein
+  link: Veraenderung_changement
 ---
