@@ -374,11 +374,12 @@ the_protagonists:
         der Evangelischen Gemeinde Tiergarten. Sie engagiert sich u.a. für
         feministische digitale Projekte.
       the_protagonists:
-        bio_de: Lena Müller studierte zunächst Mathematik, fand schließlich mehr
-          Erfüllung in der Jugendarbeit der evangelischen Gemeinde. Sie
-          studierte Evangelische Gemeindepädagogik und ist seit einigen Monaten
-          Pfarrerin in der Evangelischen Gemeinde Tiergarten. Sie engagiert sich
-          u.a. für feministische digitale Projekte.
+        bio_de: Lena Müller, Mathematikerin und evangelische Gemeindepädagogin, wirkt
+          als Pfarrerin im geistlichen Start Up „Spirit and Soul“ und in einer
+          Kirchengemeinde Berlin-Neukölln. Sie engagiert sich u.a. für
+          feministische digitale Projekte. Sie bloggt als „metablaba“ auf
+          Instagram über Feminismus und Theologie und moderiert das
+          YouTube-Format  „Feminstisch fromm FREISCHNAUZE“ .
         bio_fr: Lena Müller a d'abord étudié les mathématiques, mais a finalement trouvé
           plus d'épanouissement dans le travail avec les jeunes de la paroisse
           évangélique. Elle a étudié la pédagogie communautaire protestante et
@@ -418,6 +419,18 @@ the_protagonists:
           Elle est arrivée de Turquie en Allemagne avec ses parents en 1969 et a
           d'abord travaillé comme avocate. Aujourd'hui, elle s'engage pour un
           islam progressiste et pour les personnes qui ne sont pas musulmanes.
+    - name: Lisa Kötter
+      image: images/lisa-koetter.png
+      bio: Lisa Kötter ist Mitbegründerin der katholischen Aktivistinnen Maria 2.0.
+        Sie ist zudem Künstlerin und Autorin des Buches „Schweigen war
+        gestern“.
+      the_protagonists:
+        bio_de: Lisa Kötter ist Mitbegründerin der katholischen Aktivistinnen Maria
+          2.0. Sie ist zudem Künstlerin und Autorin des Buches „Schweigen war
+          gestern“.
+        bio_fr: Lisa Kötter est cofondatrice de l'association catholique activiste Maria
+          2.0. Elle est également artiste et auteur du livre "Schweigen war
+          gestern".
     - name: Paule Zellitch
       image: images/pauli-zellitch.jpg
       bio: Paule Zellitch ist katholische Aktivistin und Präsidentin der französisch
@@ -432,18 +445,6 @@ the_protagonists:
           Conférence des baptisés francophones. Elle enseigne également à la
           Fondation culturelle catholique Oudin à Paris et anime des ateliers
           bibliques.
-    - name: Lisa Kötter
-      image: images/lisa-koetter.png
-      bio: Lisa Kötter ist Mitbegründerin der katholischen Aktivistinnen Maria 2.0.
-        Sie ist zudem Künstlerin und Autorin des Buches „Schweigen war
-        gestern“.
-      the_protagonists:
-        bio_de: Lisa Kötter ist Mitbegründerin der katholischen Aktivistinnen Maria
-          2.0. Sie ist zudem Künstlerin und Autorin des Buches „Schweigen war
-          gestern“.
-        bio_fr: Lisa Kötter est cofondatrice de l'association catholique activiste Maria
-          2.0. Elle est également artiste et auteur du livre "Schweigen war
-          gestern".
     - name: Eva Janadin
       bio: Eva Janadin konvertierte vor etwa 10 Jahren zum Islam. Sie ist
         Mitbegründerin der Sîmorgh Moschee. Außerdem war sie an der Gründung
