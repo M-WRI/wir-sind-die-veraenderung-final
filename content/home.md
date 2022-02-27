@@ -432,7 +432,7 @@ the_protagonists:
           2.0. Elle est également artiste et auteur du livre "Schweigen war
           gestern".
     - name: Paule Zellitch
-      image: images/pauli-zellitch.jpg
+      image: images/paule_copyright.jpg
       bio: Paule Zellitch ist katholische Aktivistin und Präsidentin der französisch
         sprachigen Konferenz der Getauften. Sie unterrichtet zudem an der
         katholischen Kulturstiftung Oudin in Paris und leitet Bibel Workshops.
