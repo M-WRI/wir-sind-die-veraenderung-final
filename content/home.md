@@ -442,7 +442,7 @@ the_protagonists:
           an der katholischen Kulturstiftung Oudin in Paris und leitet Bibel
           Workshops.
         bio_fr: Paule Zellitch, catholique militante, est présidente de la Conférence
-          des baptisés francophones. Théologienne, elle enseigne en lien avec
+          des baptisé.e.s francophones. Théologienne, elle enseigne en lien avec
           l’Institut catholique de Paris, à la Fondation culturelle Enseigne des
           Oudin, elle est co-fondatrice des Ateliers de lecture biblique.
     - name: Eva Janadin
