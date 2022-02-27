@@ -230,7 +230,7 @@ the_project:
         Une rencontre entre des représentantes de la foi libérale d'Allemagne et de France
 
 
-        La société en crise, la migration et la peur de l'autre sont directement liées à des traditions différentes qui s'affrontent. NON car au sein de chacune de ces traditions il y a de puissants écarts. Pour être crédibles, ne pas être aussi approximatifs est très important. Les différentes confessions religieuses jouent un rôle important dans ce contexte. Quelle mission les confessions peuvent-elles assumer pour promouvoir une coexistence sociale pacifique et apporter une contribution porteuse de sens à une réflexion et à une action orientées vers l'avenir ?
+        La société en crise, la migration et la peur de l'autre sont directement liées à des traditions différentes qui s'affrontent. Les différentes confessions religieuses jouent un rôle important dans ce contexte. Quelle mission les confessions peuvent-elles assumer pour promouvoir une coexistence sociale pacifique et apporter une contribution porteuse de sens à une réflexion et à une action orientées vers l'avenir ?
     - text_block_de: Auf der Basis der deutsch-französischen Freundschaft stellen wir
         uns der Herausforderung wie es den Religionen gelingen kann, Hass,
         Gewalt und Intoleranz in Verständnis füreinander zu wandeln. In beiden
