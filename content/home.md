@@ -430,9 +430,10 @@ the_protagonists:
           an der katholischen Kulturstiftung Oudin in Paris und leitet Bibel
           Workshops.
         bio_fr: Paule Zellitch, catholique militante, est présidente de la Conférence
-          des baptisés francophones. Theologienne, elle enseigne en lien avec
-          l‘Institut catholique de Paris, à la Fondation culturelle Enseigne des
-          Oudin, Elle es co-fondatrice des Ateliers de lecture biblique.
+          des baptisé.e.s. francophones. Théologienne, elle enseigne en lien
+          avec l’Institut catholique de Paris, á la Fondation culturelle
+          Enseigne des Oudin, elle est cofondatrice des Ateliers de lecture
+          biblique.
     - name: Lisa Kötter
       image: images/lisa-koetter.png
       bio: Lisa Kötter ist Mitbegründerin der katholischen Aktivistinnen Maria 2.0.
