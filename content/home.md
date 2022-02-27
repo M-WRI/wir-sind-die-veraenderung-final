@@ -400,10 +400,10 @@ the_protagonists:
           ordiniert. Heute ist sie Pfarrerin bei Paris und engagiert sich in der
           feministischen Theologie.
         bio_fr: Jane Stranz est originaire d'Angleterre et a étudié les langues et
-          l'histoire. Elle a également étudié la théologie à Oxford et à Witten
-          en RDA. En 1991, elle a été consacrée pasteur de l'Église réformée
-          unie à Londres. Aujourd'hui, elle est pasteure près de Paris et
-          s'engage dans la théologie féministe.
+          l'histoire. Elle a également étudié la théologie à Oxford et à
+          Wittenberg en RDA. En 1991, elle a été consacrée pasteur de l'Église
+          réformée unie à Londres. Aujourd'hui, elle est pasteure près de Paris
+          et s'engage dans la théologie féministe.
     - name: Seyran Ateş
       image: images/seyran-ates.jpg
       bio: Seyran Ateş ist Mitbegründerin der Ibn-Rushd-Goethe-Moschee in Berlin. Sie
@@ -429,10 +429,10 @@ the_protagonists:
           französisch sprachigen Konferenz der Getauften. Sie unterrichtet zudem
           an der katholischen Kulturstiftung Oudin in Paris und leitet Bibel
           Workshops.
-        bio_fr: Paule Zellitch est une militante catholique et présidente de la
-          Conférence des baptisés francophones. Elle enseigne également à la
-          Fondation culturelle catholique Oudin à Paris et anime des ateliers
-          bibliques.
+        bio_fr: Paule Zellitch, catholique militante, est présidente de la Conférence
+          des baptisés francophones. Theologienne, elle enseigne en lien avec
+          l‘Institut catholique de Paris, à la Fondation culturelle Enseigne des
+          Oudin, Elle es co-fondatrice des Ateliers de lecture biblique.
     - name: Lisa Kötter
       image: images/lisa-koetter.png
       bio: Lisa Kötter ist Mitbegründerin der katholischen Aktivistinnen Maria 2.0.
