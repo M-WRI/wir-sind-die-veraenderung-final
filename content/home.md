@@ -442,10 +442,9 @@ the_protagonists:
           an der katholischen Kulturstiftung Oudin in Paris und leitet Bibel
           Workshops.
         bio_fr: Paule Zellitch, catholique militante, est présidente de la Conférence
-          des baptisé.e.s. francophones. Théologienne, elle enseigne en lien
-          avec l’Institut catholique de Paris, á la Fondation culturelle
-          Enseigne des Oudin, elle est cofondatrice des Ateliers de lecture
-          biblique.
+          des baptisés francophones. Théologienne, elle enseigne en lien avec
+          l’Institut catholique de Paris, à la Fondation culturelle Enseigne des
+          Oudin, elle est co-fondatrice des Ateliers de lecture biblique.
     - name: Eva Janadin
       bio: Eva Janadin konvertierte vor etwa 10 Jahren zum Islam. Sie ist
         Mitbegründerin der Sîmorgh Moschee. Außerdem war sie an der Gründung
