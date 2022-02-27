@@ -155,8 +155,8 @@ the_premiere:
         question commune de savoir comment les communautés de foi monothéistes
         peuvent ouvrir des voies vers une coexistence pacifique malgré des
         traditions et des conditions cadres différentes. Leur message : nous
-        sommes à la recherche d'une spiritualité unificatrice qui favorise la
-        vie et la paix."
+        sommes à la recherche d'une spiritualité qui favorise la vie et la paix,
+        unificatrice de chaque personne."
     - text_block_de: Nacherleben lässt sich diese Begegnung anhand des Dokumentarfilms
         „Wir sind die Veränderung – von der Kraft der Begegnung“ des
         preisgekrönten Filmregisseurs Benjamin Best. Entweder digital im Netz
