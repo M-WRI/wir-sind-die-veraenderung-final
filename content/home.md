@@ -419,6 +419,18 @@ the_protagonists:
           Elle est arrivée de Turquie en Allemagne avec ses parents en 1969 et a
           d'abord travaillé comme avocate. Aujourd'hui, elle s'engage pour un
           islam progressiste et pour les personnes qui ne sont pas musulmanes.
+    - name: Lisa Kötter
+      image: images/lisa-koetter.png
+      bio: Lisa Kötter ist Mitbegründerin der katholischen Aktivistinnen Maria 2.0.
+        Sie ist zudem Künstlerin und Autorin des Buches „Schweigen war
+        gestern“.
+      the_protagonists:
+        bio_de: Lisa Kötter ist Mitbegründerin der katholischen Aktivistinnen Maria
+          2.0. Sie ist zudem Künstlerin und Autorin des Buches „Schweigen war
+          gestern“.
+        bio_fr: Lisa Kötter est cofondatrice de l'association catholique activiste Maria
+          2.0. Elle est également artiste et auteur du livre "Schweigen war
+          gestern".
     - name: Paule Zellitch
       image: images/paule_copyright.jpg
       bio: Paule Zellitch ist katholische Aktivistin und Präsidentin der französisch
@@ -434,18 +446,6 @@ the_protagonists:
           avec l’Institut catholique de Paris, á la Fondation culturelle
           Enseigne des Oudin, elle est cofondatrice des Ateliers de lecture
           biblique.
-    - name: Lisa Kötter
-      image: images/lisa-koetter.png
-      bio: Lisa Kötter ist Mitbegründerin der katholischen Aktivistinnen Maria 2.0.
-        Sie ist zudem Künstlerin und Autorin des Buches „Schweigen war
-        gestern“.
-      the_protagonists:
-        bio_de: Lisa Kötter ist Mitbegründerin der katholischen Aktivistinnen Maria
-          2.0. Sie ist zudem Künstlerin und Autorin des Buches „Schweigen war
-          gestern“.
-        bio_fr: Lisa Kötter est cofondatrice de l'association catholique activiste Maria
-          2.0. Elle est également artiste et auteur du livre "Schweigen war
-          gestern".
     - name: Eva Janadin
       bio: Eva Janadin konvertierte vor etwa 10 Jahren zum Islam. Sie ist
         Mitbegründerin der Sîmorgh Moschee. Außerdem war sie an der Gründung
