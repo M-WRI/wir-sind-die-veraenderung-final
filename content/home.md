@@ -420,7 +420,7 @@ the_protagonists:
           d'abord travaillé comme avocate. Aujourd'hui, elle s'engage pour un
           islam progressiste et pour les personnes qui ne sont pas musulmanes.
     - name: Lisa Kötter
-      image: images/lisa-koetter.png
+      image: images/lisa-kötter-.png
       bio: Lisa Kötter ist Mitbegründerin der katholischen Aktivistinnen Maria 2.0.
         Sie ist zudem Künstlerin und Autorin des Buches „Schweigen war
         gestern“.
