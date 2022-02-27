@@ -395,7 +395,7 @@ the_protagonists:
         feministischen Theologie.
       the_protagonists:
         bio_de: Jane Stranz kommt ursprünglich aus England, hat Sprachen und Geschichte
-          studiert. Dazu Theologie in Oxford und in Witten in der DDR. 1991
+          studiert. Dazu Theologie in Oxford und in Wittenberg in der DDR. 1991
           wurde sie in London zur Pastorin der Vereinigten Reformierten Kirche
           ordiniert. Heute ist sie Pfarrerin bei Paris und engagiert sich in der
           feministischen Theologie.
@@ -419,18 +419,6 @@ the_protagonists:
           Elle est arrivée de Turquie en Allemagne avec ses parents en 1969 et a
           d'abord travaillé comme avocate. Aujourd'hui, elle s'engage pour un
           islam progressiste et pour les personnes qui ne sont pas musulmanes.
-    - name: Lisa Kötter
-      image: images/lisa-koetter.png
-      bio: Lisa Kötter ist Mitbegründerin der katholischen Aktivistinnen Maria 2.0.
-        Sie ist zudem Künstlerin und Autorin des Buches „Schweigen war
-        gestern“.
-      the_protagonists:
-        bio_de: Lisa Kötter ist Mitbegründerin der katholischen Aktivistinnen Maria
-          2.0. Sie ist zudem Künstlerin und Autorin des Buches „Schweigen war
-          gestern“.
-        bio_fr: Lisa Kötter est cofondatrice de l'association catholique activiste Maria
-          2.0. Elle est également artiste et auteur du livre "Schweigen war
-          gestern".
     - name: Paule Zellitch
       image: images/paule_copyright.jpg
       bio: Paule Zellitch ist katholische Aktivistin und Präsidentin der französisch
@@ -445,6 +433,18 @@ the_protagonists:
           Conférence des baptisés francophones. Elle enseigne également à la
           Fondation culturelle catholique Oudin à Paris et anime des ateliers
           bibliques.
+    - name: Lisa Kötter
+      image: images/lisa-koetter.png
+      bio: Lisa Kötter ist Mitbegründerin der katholischen Aktivistinnen Maria 2.0.
+        Sie ist zudem Künstlerin und Autorin des Buches „Schweigen war
+        gestern“.
+      the_protagonists:
+        bio_de: Lisa Kötter ist Mitbegründerin der katholischen Aktivistinnen Maria
+          2.0. Sie ist zudem Künstlerin und Autorin des Buches „Schweigen war
+          gestern“.
+        bio_fr: Lisa Kötter est cofondatrice de l'association catholique activiste Maria
+          2.0. Elle est également artiste et auteur du livre "Schweigen war
+          gestern".
     - name: Eva Janadin
       bio: Eva Janadin konvertierte vor etwa 10 Jahren zum Islam. Sie ist
         Mitbegründerin der Sîmorgh Moschee. Außerdem war sie an der Gründung
