@@ -169,7 +169,7 @@ the_premiere:
     - text_block_de: Im Anschluss an den Film gibt es die Möglichkeit, mit den
         anwesenden Protagonistinnen über ihre Vision zu diskutieren.
       text_block_fr: Après le film, il sera possible d'échanger avec les protagonistes
-        et de discuter de leur vision.
+        et d’échanger avec elles à propos de leur vision.
     - text_block_de: "Möglich wurden die Begegnung und der Film dank der Förderung
         durch den **Deutsch-Französischen Bürgerfonds** mit Hilfe der
         Trägerschaft des **Deutschen Koordinierungsrates der Gesellschaften für
