@@ -342,7 +342,7 @@ the_project:
         supporter_link: https://www.chateau-orion.fr/
       - supporter_name: Musée Jeanne d'Albret
         supporter_link: https://www.museejeannedalbret.com/fr/
-      - supporter_name: Camp de Gurs
+      - supporter_name: Amicale du Camp de Gurs
         supporter_link: http://www.campgurs.com/
       - supporter_name: Stiftung Apfelbaum
         supporter_link: https://www.stiftung-apfelbaum.de/
