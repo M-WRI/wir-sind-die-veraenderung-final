@@ -32,8 +32,8 @@ the_movie:
         althergebrachten Rollenvorstellungen in den einzelnen Religionen.
       text_block_fr: A l'occasion de cette rencontre, le réalisateur Benjamin Best
         raconte leur(s) histoire(s) dans son documentaire. Pleines d'énergie,
-        hostiles, voire menacées, souvent à bout de forces, elles rompent avec
-        les rôles ancestraux dans les différentes religions.
+        voire menacées, souvent à bout de forces, elles rompent avec les rôles
+        ancestraux dans les différentes religions.
     - text_block_de: Machtbesessene Strukturen und Wahrheitsansprüche müssen sich
         auflösen, das ist ihre Botschaft.  Weibliche Stimmen müssen lauter, neue
         Narrative gefunden werden. Sie kämpfen für mehr Spiritualität, für einen
@@ -77,7 +77,7 @@ the_movie:
         Er leistet einen Beitrag zu einer brandaktuellen Diskussion zwischen
         Kirchen und Gesellschaft.
       text_block_fr: Le film raconte un départ courageux et est un regard passionné
-        vers l'avant, alliant poésie et provocation. Il contribue à un débat
+        vers l'avenir, alliant poésie et provocation. Il contribue à un débat
         d'une brûlante actualité entre les Eglises et la société.
     - text_block_de: "**Der Produzent und Filmemacher**"
       text_block_fr: Le producteur et réalisateur
