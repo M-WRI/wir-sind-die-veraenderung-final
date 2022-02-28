@@ -333,7 +333,7 @@ the_project:
     supporter_link: https://www.buergerfonds.eu/startseite
     list:
       - supporter_link: https://www.buergerfonds.eu/startseite
-        supporter_name: Deutsch-Französischen Bürgerfonds
+        supporter_name: Deutsch-Französischer Bürgerfonds
         supporter_logo: images/logo_dfbfonds_rgb_transparent.png
       - supporter_name: DEUTSCHER KOORDINIERUNGSRAT E.V.
         supporter_link: https://www.deutscher-koordinierungsrat.de/
