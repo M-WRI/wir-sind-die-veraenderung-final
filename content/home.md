@@ -191,7 +191,7 @@ the_premiere:
         imam de Paris, la pasteure **Jane Stranz**, la jeune pasteure féministe
         **Lena Müller** de la communauté de Neukölln à Berlin, **Lisa Kötter**,
         cofondatrice de Maria 2. 0 et **Paule Zellitch**, présidente de la
-        Conférence catholique de babtisé.e.s francophones."
+        Conférence catholique de baptisé.e.s francophones."
     - text_block_de: Die Veranstaltung beginnt um 19.00 Uhr und wird hybrid von
         verschiedenen Orten aus stattfinden.
       text_block_fr: L'événement débutera à 19 heures et se déroulera de manière
