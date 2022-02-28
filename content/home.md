@@ -261,8 +261,7 @@ the_project:
         ainsi que deux militantes catholiques Paule Zellitch et Lisa Kötter.
         Elles se sont inspirées de circonstances historiques régionales, comme
         le camp d'internement de Gurs et le musée protestant Jeanne d'Albret à
-        Orthez. En outre, il s'agit de questions que se pose la jeune génération
-        du côté français et allemand.
+        Orthez.
     - text_block_de: Der Ort der Begegnung, Château d’Orion im Südwesten Frankreichs
         hat sich seit 2003 zum Ziel gesetzt, das Narrativ der Versöhnung, mithin
         die deutsch-französische Freundschaft in Europa zu fördern. U.a. in
