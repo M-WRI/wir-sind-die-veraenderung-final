@@ -205,7 +205,7 @@ the_premiere:
       - time: 19:30
         procedure: Film
       - time: 20:15
-        procedure: "Diskussion/dicussion "
+        procedure: Diskussion/echange
     premiere_title:
       title_de: 8. März 2022
       zoom_link_title_fr: Cliquez ici pour la conférence Zoom
