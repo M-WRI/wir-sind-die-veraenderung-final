@@ -202,9 +202,9 @@ the_premiere:
     schedule:
       - time: "19:00 "
         procedure: Begrüßung/Mot de bienvenu
-      - time: 19::30
+      - time: 19:30
         procedure: Film
-      - time: 20:15
+      - time: " 20:15"
         procedure: Diskussion/echange
     premiere_title:
       title_de: 8. März 2022
