@@ -411,8 +411,8 @@ the_protagonists:
       the_protagonists:
         bio_de: Seyran Ateş ist Mitbegründerin der Ibn-Rushd-Goethe-Moschee in Berlin.
           Sie kam 1969 aus der Türkei mit ihren Eltern nach Deutschland und
-          arbeitete zunächst als Rechtsanwältin. Heute engagiert sich sich für
-          einen einen progressiven Islam und für Menschen
+          arbeitete zunächst als Rechtsanwältin. Heute engagiert sie sich für
+          einen progressiven Islam und für Menschen
         bio_fr: Seyran Ateş est cofondatrice de la mosquée Ibn-Rushd-Goethe à Berlin.
           Elle est arrivée de Turquie en Allemagne avec ses parents en 1969 et a
           d'abord travaillé comme avocate. Aujourd'hui, elle s'engage pour un
