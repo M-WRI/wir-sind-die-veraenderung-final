@@ -143,6 +143,15 @@ the_movie:
         effrayantes de premier plan".
 the_premiere:
   section_description:
+    - text_block_de: Nacherleben lässt sich diese Begegnung anhand des Dokumentarfilms
+        „Wir sind die Veränderung – von der Kraft der Begegnung“ des
+        preisgekrönten Filmregisseurs Benjamin Best. Entweder digital im Netz
+        oder an verschiedenen Orten auch persönlich.
+      text_block_fr: Le film documentaire "Wir sind die Veränderung - von der Kraft
+        der Begegnung" (Nous sommes le changement - de la force de la
+        rencontre), réalisé par le cinéaste primé Benjamin Best, permet de
+        revivre cette rencontre. Soit numériquement sur le net, soit en personne
+        à différents endroits.
     - text_block_de: "Acht inspirierende Frauen haben sich im Herbst 2021 im
         französischen Château d’Orion zu einer interreligiösen Begegnung
         getroffen zu der gemeinsamen Frage, wie monotheistische
@@ -157,15 +166,6 @@ the_premiere:
         traditions et des conditions cadres différentes. Leur message : nous
         sommes à la recherche d'une spiritualité qui favorise la vie et la paix,
         unificatrice de chaque personne."
-    - text_block_de: Nacherleben lässt sich diese Begegnung anhand des Dokumentarfilms
-        „Wir sind die Veränderung – von der Kraft der Begegnung“ des
-        preisgekrönten Filmregisseurs Benjamin Best. Entweder digital im Netz
-        oder an verschiedenen Orten auch persönlich.
-      text_block_fr: Le film documentaire "Wir sind die Veränderung - von der Kraft
-        der Begegnung" (Nous sommes le changement - de la force de la
-        rencontre), réalisé par le cinéaste primé Benjamin Best, permet de
-        revivre cette rencontre. Soit numériquement sur le net, soit en personne
-        à différents endroits.
     - text_block_de: Im Anschluss an den Film gibt es die Möglichkeit, mit den
         anwesenden Protagonistinnen über ihre Vision zu diskutieren.
       text_block_fr: Après le film, il sera possible d'échanger avec les protagonistes
