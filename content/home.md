@@ -490,6 +490,8 @@ image_gallery:
       image: images/gal-3.jpeg
     - image_name: Bild 6
       image: images/197d217d-c970-4574-bfda-87d2e6387928.jpeg
+    - image_name: Bild 7
+      image: images/ee67ace5-9ab1-46cc-ba18-49870c55c852.jpeg
 premiere_title: Die Premiere
 premiere_sub_title: 8 Frauen 4 Religionen 2 Länder der Film
 premiere_description: []
