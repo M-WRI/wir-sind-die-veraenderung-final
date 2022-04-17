@@ -176,10 +176,6 @@ the_premiere:
         traditions et des conditions cadres différentes. Leur message : nous
         sommes à la recherche d'une spiritualité qui favorise la vie et la paix,
         unificatrice de chaque personne."
-    - text_block_de: Im Anschluss an den Film gibt es die Möglichkeit, mit den
-        anwesenden Protagonistinnen über ihre Vision zu diskutieren.
-      text_block_fr: Après le film, il sera possible d'échanger avec les protagonistes
-        et d’échanger avec elles à propos de leur vision.
     - text_block_de: "Möglich wurden die Begegnung und der Film dank der Förderung
         durch den **Deutsch-Französischen Bürgerfonds** mit Hilfe der
         Trägerschaft des **Deutschen Koordinierungsrates der Gesellschaften für
@@ -202,9 +198,6 @@ the_premiere:
         **Lena Müller** de la communauté de Neukölln à Berlin, **Lisa Kötter**,
         cofondatrice de Maria 2. 0 et **Paule Zellitch**, présidente de la
         Conférence catholique de baptisé.e.s francophones."
-    - text_block_de: Die Veranstaltung beginnt um 19.00 Uhr und wird hybrid von
-        verschiedenen Orten aus stattfinden.
-      text_block_fr: L'événement débutera à 19 heures.
   info_card:
     title: 8. März 2022
     zoom_link: "#"
@@ -495,6 +488,8 @@ image_gallery:
       image: images/gal-7.jpeg
     - image_name: Bild 5
       image: images/gal-3.jpeg
+    - image_name: Bild 6
+      image: images/197d217d-c970-4574-bfda-87d2e6387928.jpeg
 premiere_title: Die Premiere
 premiere_sub_title: 8 Frauen 4 Religionen 2 Länder der Film
 premiere_description: []
