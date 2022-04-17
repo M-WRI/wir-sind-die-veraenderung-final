@@ -143,10 +143,20 @@ the_movie:
         effrayantes de premier plan".
 the_premiere:
   section_description:
-    - text_block_de: Nacherleben lässt sich diese Begegnung anhand des Dokumentarfilms
-        „Wir sind die Veränderung – von der Kraft der Begegnung“ des
-        preisgekrönten Filmregisseurs Benjamin Best. Entweder digital im Netz
-        oder an verschiedenen Orten auch persönlich.
+    - text_block_de: >-
+        Zum ersten Mal nacherleben ließ sich diese Begegnung anhand des
+        Dokumentarfilms „Wir sind die Veränderung – von der Kraft der Begegnung“
+        des preisgekrönten Filmregisseurs Benjamin Best am 08.03. online und in
+        der Berliner Moschee Ibn Rushd-Goethe.
+
+
+        Die erste live-Aufführung fand am 9.4. im Château d’Orion in Anwesenheit der Imamin Seyran Ateş statt. Anschließend beantwortete sie Fragen und ging mit dem Publikum in den Dialog. 
+
+
+        Auch die Generalkonsulin Stefanie Zeidler lud zu einer Filmvorführung ins Goethe-Institut in Bordeaux ein. Auch hier kam es zu einem regen Austausch mit Seyran Ateş, Agnes Barokel, Mitglied in der jüdischen Gemeinde Bordeaux und Ottilie Bonnema, Pastorin der Fondation John-Bost. 
+
+
+        Das Interesse aller Teilnehmenden war groß und motiviert das Projekt weiter in die Welt zu tragen.
       text_block_fr: Le film documentaire "Wir sind die Veränderung - von der Kraft
         der Begegnung" (Nous sommes le changement - de la force de la
         rencontre), réalisé par le cinéaste primé Benjamin Best, permet de
